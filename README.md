@@ -1,4 +1,4 @@
-##About
+## About
 
 A simple python code to fetch hardware details programmatically in Windows OS.
 
@@ -8,7 +8,7 @@ A simple python code to fetch hardware details programmatically in Windows OS.
 - Dmidecode for windows
 - Python win32com extension for windows
 
-##Usage
+## Usage
 
 `python HardwareInfo.py`
  
